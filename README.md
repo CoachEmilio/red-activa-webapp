@@ -101,13 +101,10 @@ red-activa-webapp/
 │   └── index.css
 ├── .env.example
 ├── index.html
-├── server.ts                 # Servidor del scaffold inicial (ver nota)
 ├── vite.config.ts
 ├── tsconfig.json
 └── package.json
 ```
-
-> `server.ts` proviene del scaffold inicial del proyecto. Confirmar su uso o eliminarlo si no es necesario.
 
 ---
 
